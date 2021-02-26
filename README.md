@@ -6,4 +6,3 @@ This is my first repository
 ## 興趣
 寫程式  上課  認真  讀書......以上都不是我的興趣
 ## 好玩的圖
-[有一個網址](https://www.google.com/)
